@@ -1,0 +1,3 @@
+# What is JSON?
+
+JSON stands for **JavaScript Object Notation**. It is a lightweight and easy-to-read format used to store and share data. JSON represents data as key–value pairs, kind of like a dictionary. It’s commonly used when sending data between a server and a web application because it’s simple for both humans and computers to understand.
